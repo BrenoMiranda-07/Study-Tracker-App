@@ -1,0 +1,10 @@
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.csproj.AssemblyReference.cache
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.Form1.resources
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.Properties.Resources.resources
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.csproj.GenerateResource.cache
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.csproj.CoreCompileInputs.cache
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\bin\Debug\StudyTrackerAppVersion3.exe.config
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\bin\Debug\StudyTrackerAppVersion3.exe
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\bin\Debug\StudyTrackerAppVersion3.pdb
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.exe
+C:\Users\leobr\source\repos\StudyTrackerAppVersion3\StudyTrackerAppVersion3\obj\Debug\StudyTrackerAppVersion3.pdb
